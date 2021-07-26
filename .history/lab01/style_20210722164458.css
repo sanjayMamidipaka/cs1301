@@ -1,0 +1,27 @@
+.h1 {
+    text-align: center 
+}
+
+.description {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.link {
+    font-size: 25px;
+}
+
+.kanye {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center, th, td {
+    border: 1px solid #aaaaaa;
+    padding: 5px;
+}
+

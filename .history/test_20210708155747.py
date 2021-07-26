@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+def summerWeather(weather):
+    
+    for char in weather:
+        if char

@@ -1,0 +1,15 @@
+Brittain Dining Hall
+American
+Sit-down
+
+North Ave Dining Hall
+American
+Sit-down
+
+West Village Dining Hall
+American
+Sit-down
+
+Panda Express
+Chinese
+Fast Food

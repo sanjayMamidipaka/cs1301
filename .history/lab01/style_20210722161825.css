@@ -1,0 +1,21 @@
+.h1 {
+    text-align: center 
+}
+
+.description {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.link {
+    font-size: 25px;
+    position: absolute;
+    top: 300px;
+}
+
+.kanye {
+    position: relative;
+    left: -100px;
+    top: 200px;
+}

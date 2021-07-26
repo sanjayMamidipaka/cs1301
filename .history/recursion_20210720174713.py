@@ -1,0 +1,2 @@
+def dictCreation(keys, vals):
+    
